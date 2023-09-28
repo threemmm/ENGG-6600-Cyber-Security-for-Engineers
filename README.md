@@ -1,7 +1,6 @@
 # ENGG 6600 Cyber Security for Engineers
 
-Welcome to the GitHub repository for the course "ENGG 6600 Cyber Security for Engineers." This repository serves as a supplementary resource for students to get familiar with Jupyter Notebooks and explore AI sample models.
-
+Welcome to the GitHub repository for the two-day introductory workshop on 'ENGG 6600 Cyber Security for Engineers.' This repository serves as a supplementary resource for beginners to get acquainted with Jupyter Notebooks and explore AI sample models, offering an accessible entry point into the world of machine learning.
 ## Table of Contents
 
 1. [Repository Structure](#repository-structure)
