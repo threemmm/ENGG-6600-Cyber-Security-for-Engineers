@@ -47,3 +47,9 @@ These are optional notebooks for extra work and further exploration:
 
 The `data/` folder contains all the data files used in the notebook examples. These may include `.csv`, `.txt`, or `.mat` files that are read into the notebooks for analysis and machine learning tasks.
 
+## Disclaimer
+
+The main workshop notebooks (`00-ML-workshop.ipynb`, `01-ML-workshop.ipynb`, and `02-ML-workshop.ipynb`) are provided by the professor of the course "ENGG 6600 Cyber Security for Engineers." at University of Guelph - Fall 2023. The content, structure, and views expressed in these notebooks are the intellectual property of the course instructor and are used here for educational purposes under academic guidelines.
+
+---
+
